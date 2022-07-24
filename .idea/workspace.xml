@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc0ea974-fd58-4a0b-a675-4b467f9ccb60" name="Changes" comment="Projeto Satander Curso e Mentoria">
+      <change afterPath="$PROJECT_DIR$/src/Conteudos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Executa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Executa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +30,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CP5uM8eE4yERB7b51hgPDQctTx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,9 +41,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Gisele/Desktop/Cinthia/Programação/Alura/Projetos Java/Spring Framework/apache-tomcat-9.0.64-windows-x64/apache-tomcat-9.0.64",
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gisele\Desktop\Cinthia\Programação\Alura\Projetos Java\Spring Framework\apache-tomcat-9.0.64-windows-x64\apache-tomcat-9.0.64" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Executa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Executa" />
@@ -68,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658695850975</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Projeto Satander Curso e Mentoria">
+      <created>1658696554022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658696554022</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Projeto Satander Curso e Mentoria">
+      <created>1658696567253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658696567253</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
